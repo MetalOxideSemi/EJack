@@ -137,4 +137,4 @@ while这种东西大家都懂，这是挺重要的一种结构，本来我已经
                                         解释器：狄志鹏
                                         高精度算法：王浩任
                                         科学函数：林隆中
-[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
+
